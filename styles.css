@@ -1,0 +1,26 @@
+
+        body{
+            background-color: #dddddd;
+        }
+        hr{
+            border-style: none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 5px;
+            width: 10%;
+        }
+        h1{
+            color: #66BFBF;
+            text-transform: uppercase;
+            text-shadow: 2px 1px blue;
+        }
+        h3{
+            color: #bf667e;
+            text-align: justify;
+            text-indent: 10%;
+            text-shadow: 1px 0px blue;
+            text-decoration: underline;
+            text-transform: uppercase;
+            text-decoration-style: dashed;
+            text-decoration-thickness: 4px;
+        }
